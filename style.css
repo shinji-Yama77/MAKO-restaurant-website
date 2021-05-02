@@ -124,6 +124,7 @@ p {
 .img4 {
   width: 70%;
   border-radius: 30px;
+  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
 }
 
 .showcase3 {
@@ -132,6 +133,7 @@ p {
 
 .news {
   width: 60%;
+  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
 }
 
 .showcase3 .grid {
@@ -182,6 +184,7 @@ iframe {
   border-radius: 30px;
   display: block;
   margin: 0 auto;
+  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
 }
 
 .maps {
@@ -190,5 +193,10 @@ iframe {
 
 
 .contact h2 {
+  display: inline;
+}
+
+span {
+  border-bottom: seagreen 2px solid;
   display: inline;
 }
