@@ -200,3 +200,12 @@ span {
   border-bottom: seagreen 2px solid;
   display: inline;
 }
+
+.menu img {
+  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
+  border-radius: 30px;
+}
+
+.menu1 {
+  height: 800px;
+}
