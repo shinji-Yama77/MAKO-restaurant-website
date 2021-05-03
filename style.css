@@ -201,11 +201,26 @@ span {
   display: inline;
 }
 
+/* menu.html */
+
 .menu img {
   box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
   border-radius: 30px;
 }
 
 .menu1 {
-  height: 800px;
+  
+}
+
+.menu-text h3 {
+  font-weight: 100;
+}
+
+.menu-text {
+  height: 400px;
+}
+
+.menu-small h3 {
+  border-bottom: 3px black solid;
+  margin-bottom: 30px;
 }
