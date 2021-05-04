@@ -203,13 +203,8 @@ span {
 
 /* menu.html */
 
-.menu img {
-  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
-  border-radius: 30px;
-}
-
 .menu1 {
-  
+  background-color: tomato;
 }
 
 .menu-text h3 {
@@ -217,10 +212,30 @@ span {
 }
 
 .menu-text {
-  height: 400px;
+  height: 1000px;
 }
 
 .menu-small h3 {
   border-bottom: 3px black solid;
   margin-bottom: 30px;
+}
+
+.menu-main {
+  background-color: white;
+  width: 90%;
+  height: 800px;
+  margin-bottom: 100px;
+  box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
+  border-radius: 30px;
+}
+
+
+.oko {
+  background-color: tomato;
+  padding-left: 100px;
+}
+
+.soba {
+  background-color: ;
+  padding-left: 100px;
 }
