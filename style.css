@@ -231,11 +231,28 @@ span {
 
 
 .oko {
-  background-color: tomato;
-  padding-left: 100px;
+  /* I set width on grid so this follows it */
+  margin: 0 auto;
+  
 }
 
 .soba {
-  background-color: ;
-  padding-left: 100px;
+  margin: 0 auto;
 }
+
+
+.oko h1 {
+  background-color: tomato;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  margin-right: 20px;
+}
+
+.soba h1 {
+  background-color: tomato;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  margin-right: 20px;
+}
+
+
