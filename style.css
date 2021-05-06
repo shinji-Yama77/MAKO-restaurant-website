@@ -204,12 +204,21 @@ span {
 /* menu.html */
 
 .menu1 {
-  background-color: tomato;
+  background-image: url(./imgs/Food1.jpg);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50px;
+}
+
+.menu-small {
+  color: #fff;
 }
 
 .menu-text h3 {
   font-weight: 100;
 }
+
 
 .menu-text {
   height: 1000px;
@@ -222,7 +231,10 @@ span {
 
 .menu-main {
   background-color: white;
-  width: 90%;
+  background-image: url(./imgs/Food1.jpg);
+  background-size: 1000px;
+  background-repeat: no-repeat;
+  width: 100%;
   height: 800px;
   margin-bottom: 100px;
   box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
@@ -256,3 +268,19 @@ span {
 }
 
 
+.oko {
+  background-color: tomato;
+}
+
+.soba {
+  background-color: tomato;
+}
+.second {
+  background-color: tomato;
+  width: 190px;
+  padding-left: 40px;
+}
+
+.menu-main .grid {
+  height: 400px;
+}
