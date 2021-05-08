@@ -221,7 +221,7 @@ span {
 
 
 .menu-text {
-  height: 1000px;
+  height: 1200px;
 }
 
 .menu-small h3 {
@@ -235,7 +235,7 @@ span {
   background-size: 1000px;
   background-repeat: no-repeat;
   width: 100%;
-  height: 800px;
+  height: 900px;
   margin-bottom: 100px;
   box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
   border-radius: 30px;
@@ -275,12 +275,29 @@ span {
 .soba {
   background-color: tomato;
 }
-.second {
-  background-color: tomato;
-  width: 190px;
-  padding-left: 40px;
-}
+
+
 
 .menu-main .grid {
   height: 400px;
 }
+
+
+
+.oko2 {
+  margin: 0 auto;
+  background-color: tomato;
+  padding-right: 70px;
+}
+
+.soba1 {
+  margin: 0 auto;
+  background-color: tomato;
+}
+
+.third {
+  background-color: tomato;
+  color: #fff;
+  display: inline-block;
+}
+
