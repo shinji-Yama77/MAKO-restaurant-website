@@ -52,6 +52,16 @@ header {
   margin-top: 50px;
   box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
   border-radius: 20px;
+  animation: loading 4s;
+}
+
+@keyframes loading {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 header .flex {
@@ -245,23 +255,23 @@ span {
 .oko {
   /* I set width on grid so this follows it */
   margin: 0 auto;
+  margin-top: 20px;
   
 }
 
 .soba {
   margin: 0 auto;
+  margin-top: 20px;
 }
 
 
 .oko h1 {
-  background-color: tomato;
   padding-bottom: 30px;
   padding-top: 30px;
   margin-right: 20px;
 }
 
 .soba h1 {
-  background-color: tomato;
   padding-bottom: 30px;
   padding-top: 30px;
   margin-right: 20px;
@@ -269,11 +279,13 @@ span {
 
 
 .oko {
-  background-color: tomato;
+  background-color: #fff;
+  border-radius: 20px;
 }
 
 .soba {
-  background-color: tomato;
+  background-color: #fff;
+  border-radius: 20px;
 }
 
 
@@ -286,18 +298,23 @@ span {
 
 .oko2 {
   margin: 0 auto;
-  background-color: tomato;
+  background-color: #fff;
   padding-right: 70px;
+  border-radius: 20px;
+  margin-top: 20px;
 }
 
 .soba1 {
   margin: 0 auto;
-  background-color: tomato;
+  background-color: #fff;
+  border-radius: 20px;
+  padding-right: 60px;
+  margin-top: 20px;
 }
 
 .third {
-  background-color: tomato;
-  color: #fff;
+  background-color: #fff;
   display: inline-block;
+  border-radius: 20px;
 }
 
