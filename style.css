@@ -326,3 +326,7 @@ span {
   border-radius: 20px;
 }
 
+.menu-text ul {
+  list-style: none;
+}
+
