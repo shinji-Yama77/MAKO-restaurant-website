@@ -214,7 +214,7 @@ iframe {
   display: inline;
 }
 
-span {
+.contact span {
   border-bottom: seagreen 2px solid;
   display: inline;
 }
@@ -285,6 +285,11 @@ span {
   margin-right: 20px;
 }
 
+.oko ul {
+  padding-bottom: 10px;
+  background-color: olivedrab;
+}
+
 
 .oko {
   background-color: #fff;
@@ -328,5 +333,11 @@ span {
 
 .menu-text ul {
   list-style: none;
+}
+
+.oko span {
+  background-color: orangered;
+  padding-left: 10px;
+  
 }
 
