@@ -263,11 +263,15 @@ iframe {
 .oko {
   /* I set width on grid so this follows it */
   margin: 0 auto;
-  background-color: aqua;
+  background-color: ;
   margin-top: 20px;
   padding: 0 10px 0px 20px;
   width: 90%;
+  
 }
+
+
+
 
 .soba {
   margin: 0 auto;
