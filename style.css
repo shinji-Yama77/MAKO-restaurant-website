@@ -263,7 +263,6 @@ iframe {
 .oko {
   /* I set width on grid so this follows it */
   margin: 0 auto;
-  background-color: ;
   margin-top: 20px;
   padding: 0 10px 0px 20px;
   width: 90%;
@@ -311,17 +310,20 @@ iframe {
 
 
 .menu-main .grid {
-  height: 400px;
+  height: 300px;
+  background-color: blue;
 }
 
 
 
 .oko2 {
   margin: 0 auto;
-  background-color: #fff;
+  background-color: tomato;
   padding-right: 70px;
   border-radius: 20px;
-  margin-top: 20px;
+  margin-top: 120px;
+  width: 70%;
+  padding-bottom: 150px;
 }
 
 .soba1 {
@@ -329,13 +331,17 @@ iframe {
   background-color: #fff;
   border-radius: 20px;
   padding-right: 60px;
-  margin-top: 20px;
+  margin-top: 120px;
 }
 
 .third {
   background-color: #fff;
   display: inline-block;
-  border-radius: 20px;
+  border-radius: 10px;
+  margin-top: 60px;
+  margin-left: 10px;
+  border: blue 3px solid;
+  padding-right: 30px;
 }
 
 .menu-text ul {
@@ -350,6 +356,11 @@ iframe {
   padding-left: 20px;
 }
 
+.topping h3 {
+  padding-bottom: 10px;
+  font-weight: 1000;
+  border-bottom: brown solid 2px;
+}
 
 
 
