@@ -275,6 +275,8 @@ iframe {
 .soba {
   margin: 0 auto;
   margin-top: 20px;
+  padding: 0 10px 0px 20px;
+  width: 90%;
 }
 
 
@@ -286,6 +288,7 @@ iframe {
 }
 
 .soba h1 {
+  margin-top: 20px;
   padding-bottom: 30px;
   padding-top: 30px;
   margin-right: 20px;
@@ -311,7 +314,6 @@ iframe {
 
 .menu-main .grid {
   height: 300px;
-  background-color: blue;
 }
 
 
@@ -319,21 +321,37 @@ iframe {
 .oko2 {
   margin: 0 auto;
   background-color: tomato;
-  padding-right: 70px;
   border-radius: 20px;
   margin-top: 120px;
-  width: 70%;
-  padding-bottom: 120px;
+  width: 90%;
+  
+  
+}
+
+.oko2 h4{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.oko2 ul {
+  padding-left: 20px;
+  background-color: aquamarine;
 }
 
 .soba1 {
   margin: 0 auto;
   background-color: #fff;
   border-radius: 20px;
-  padding-right: 60px;
+  padding-right: 30px;
   margin-top: 120px;
+  width: 90%;
 }
 
+.soba1 h4 {
+  background-color: aqua;
+  margin-left: 20px;
+  padding: 30px;
+}
 .third {
   background-color: #fff;
   display: inline-block;
@@ -342,6 +360,10 @@ iframe {
   margin-left: 10px;
   border: blue 3px solid;
   padding-right: 50px;
+}
+
+.topping {
+  margin-top: 70px;
 }
 
 .menu-text ul {
@@ -377,9 +399,12 @@ iframe {
 .fas {
   font-size: 40px;
   color: yellow;
-  padding-left: 130px;
+  padding-left: 90px;
   margin: 0 auto;
+  margin-right: 30px;
+  background-color: #fff;
 }
+
 
 
 
